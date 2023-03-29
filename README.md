@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @tarekbensassi
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Salut, je suis @tarekbensassi
+- 👀 Je suis intéressé par le développement informatique
+- 🌱 J'apprends actuellement Devops
+- 📫 Comment me joindre : https://tarekbensassi.github.io/
 
 <!---
-tarekbensassi/tarekbensassi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+tarekbensassi/tarekbensassi est un référentiel ✨ spécial ✨ car son `README.md` (ce fichier) apparaît sur votre profil GitHub.
+Vous pouvez cliquer sur le lien Aperçu pour examiner vos modifications.
 --->

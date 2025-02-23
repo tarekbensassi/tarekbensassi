@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in  full stack Java / Spring boot .
 - 👀 Passionate about web development.
-- 🌱 I am currently learning Devops.
+- 🌱 I am currently learning Cloud AWS.
 
 - 📫 You can reach me via ***tarekbensassi@gmail.com***, https://tarekbensassi.github.io/ . 
 
